@@ -1,0 +1,5 @@
+
+# OTHER
+```bash
+/etc/fstab
+```
